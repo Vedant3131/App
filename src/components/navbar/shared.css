@@ -1,0 +1,20 @@
+.navbar {
+  background-color: black !important;
+}
+
+.navbar-toggler {
+  background-color: #00bfff !important;
+}
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#home-nav-link {
+  color: white !important;
+}

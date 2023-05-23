@@ -1,0 +1,26 @@
+#home-container {
+  background-image: url("../../../assets/images/home-page-background.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 90%;
+  min-width: 100%;
+  position: absolute;
+}
+
+#home-headings {
+  position: absolute;
+  width: 310px;
+  font-size: 25px;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#home-footer {
+  background-color: black;
+  width: 100%;
+  text-align: center;
+  color: #ccc;
+  font-size: small;
+}
